@@ -9,3 +9,7 @@
 
 # GET
 ![image](https://github.com/user-attachments/assets/1ec13974-3752-499e-89a4-884178b94669)
+
+# Server Work
+![image](https://github.com/user-attachments/assets/f9a5eb09-68c2-4fec-88e7-28092ee26b3b)
+
